@@ -1,0 +1,12 @@
+/Users/brettandrews/repos/dotNetConsole/bin/Debug/netcoreapp3.1/dotNetConsole.deps.json
+/Users/brettandrews/repos/dotNetConsole/bin/Debug/netcoreapp3.1/dotNetConsole.runtimeconfig.json
+/Users/brettandrews/repos/dotNetConsole/bin/Debug/netcoreapp3.1/dotNetConsole.runtimeconfig.dev.json
+/Users/brettandrews/repos/dotNetConsole/bin/Debug/netcoreapp3.1/dotNetConsole.dll
+/Users/brettandrews/repos/dotNetConsole/bin/Debug/netcoreapp3.1/dotNetConsole.pdb
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.csprojAssemblyReference.cache
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.csproj.CoreCompileInputs.cache
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.AssemblyInfoInputs.cache
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.AssemblyInfo.cs
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.dll
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.pdb
+/Users/brettandrews/repos/dotNetConsole/obj/Debug/netcoreapp3.1/dotNetConsole.genruntimeconfig.cache
